@@ -13,20 +13,8 @@ Accessible, accurate and safe information on resources for those returning to th
 
 We built the [Buncombe Reentry Resources Hub](http://www.buncombereentryhub.org/) to provide up-to-date, accurate and safe links to national, state and local information and resources. The site is in use by the defense bar, DA's office, prison officials and reentering individuals. Now we are working to scale this resource to every county in North Carolina.
 
-## Project Organization
+## Project Status
 
-There are 2 main components to the project: the public site and the administration tool. The implementation is spread across 4 separate repositories:
+There are 2 main components to the project: the public site and an administration tool to let content administrators add and modify information. 
 
-* Content for the NC site: [nc-reentry-resources-content](https://github.com/CodeForNC/nc-reentry-resources-content). The public website and the administrative tool operate off the same content directories.
-* Public site implementation: [reentry-resources-hub](https://github.com/CodeForNC/reentry-resources-hub)
-* Content adminstration API: [reentry-admin-api](https://github.com/CodeForNC/reentry-admin-api)
-* Content administration UI code: [reentry-admin-ui](https://github.com/CodeForNC/reentry-admin-ui)
-
-The content is stored as JSON, with common (national and NC) information separate from specific county information. If a county has no county-specific information beyond the county name, the public site code generates "localized" information based on 211 database queries using the county name as a filter. Otherwise, it pulls additional local descriptions and resources and merges them with the national/state information.
-
-The public site and administrative front end codes use React. The adminstrative API back end uses Nodejs and GraphQL.
-
-## How to contribute
-
-You can find a list of unassigned tasks [here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3ACodeforNC+no%3Aassignee+). You can also look at issues in each of the individual repositories.
-
+Development of the public site is nearly complete (expected launch: late spring/early summer 2018). Development of the administrative functionality will begin soon. Further information on the project and ways to contribute may be found in the [Reentry Resources Hub repository](https://github.com/Open-NC/reentry-resources-hub).
