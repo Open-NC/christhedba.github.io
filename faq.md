@@ -6,11 +6,11 @@ description: null
 image: null
 author: null
 ---
+## What is the purpose of the Open NC Collaborative?
+TBD
 
-## How is Open NC different than the local brigades?
+## What is the relationship between Open NC and local NC brigades?
+TBD
 
-	TBD
-
-## What about cities that don't have a brigade?
-
-	TBD
+## What about places that don't have a Code for America brigade?
+TBD
