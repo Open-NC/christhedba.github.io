@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: We Are the Open NC Collabrative
+landing-title: We Are the Open NC Collaborative
 description: null
 image: null
 author: null
