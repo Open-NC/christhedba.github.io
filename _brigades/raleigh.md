@@ -16,7 +16,7 @@ Our primary focus is planning [NC Open Pass](http://ncopenpass.com)&mdash;an eve
 
 Open Raleigh Brigade is proud to partner and collaborate with the City of Raleigh and Wake County. 
 
-If you'd like to get involved, join our [meet-up group, Code for Triangle](https://www.meetup.com/Triangle-Code-for-America/] or connect with brigade captains [Jason Hibbets](https://twitter.com/jhibbets) and [Chris Mathew](https://twitter.com/christhedba).
+If you'd like to get involved, join our [meet-up group, Code for Triangle](https://www.meetup.com/Triangle-Code-for-America/) or connect with brigade captains [Jason Hibbets](https://twitter.com/jhibbets) and [Chris Mathew](https://twitter.com/christhedba).
 
 
 
