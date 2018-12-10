@@ -1,10 +1,10 @@
 ---
 layout: brigade
-title: Code For Charlotte
+title: Open Charlotte Brigade
 description: null
 image: assets/images/charlotte.jpg
-lead: 
-url: 
+lead:
+url:
 published: true
 ---
 
